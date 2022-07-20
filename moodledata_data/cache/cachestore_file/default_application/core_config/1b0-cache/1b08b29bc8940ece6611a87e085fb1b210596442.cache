@@ -1,0 +1,688 @@
+a:318:{s:6:"block1";s:1:"1";s:7:"block10";s:2:"10";s:12:"block10class";s:0:"";s:20:"block10footercontent";s:0:"";s:18:"block10htmlcontent";s:2395:"<!-- Start - Block - Logotypes #1 -->
+          <div class="wrapper-fw rui-block-logotypes-1">
+              <div class="w-lg-65 text-center mx-lg-auto">
+                  <!-- Heading -->
+                  <div class="mb-4">
+                      <p class="rui-block-text--1">Thousands of world’s leading companies trust Space</p>
+                  </div>
+                  <!-- End Heading -->
+          
+                  <div class="row justify-content-center align-items-center">
+                      <div class="col-auto col-sm py-3">
+                          <img src="https://roseathemes.com/space/1/draftfile.php/5/user/draft/117465609/mailchimp-primary.svg" alt="Logo" width="200" height="67" class="img-fluid atto_image_button_text-bottom">
+                      </div>
+                      <!-- End Col -->
+          
+                      <div class="col-auto col-sm py-3">
+                          <img src="https://roseathemes.com/space/1/draftfile.php/5/user/draft/117465609/l.svg" alt="Logo" width="140" height="47" class="img-fluid atto_image_button_text-bottom">
+                      </div>
+                      <!-- End Col -->
+          
+                      <div class="col-auto col-sm py-3">
+                          <img src="https://roseathemes.com/space/1/draftfile.php/5/user/draft/117465609/forbes-primary.svg" alt="Logo" width="110" height="28" class="img-fluid atto_image_button_text-bottom">
+                      </div>
+                      <!-- End Col -->
+          
+                      <div class="col-auto col-sm py-3">
+                          <img src="https://roseathemes.com/space/1/draftfile.php/5/user/draft/117465609/capsule-primary.svg" alt="Logo" width="140" height="47" class="img-fluid atto_image_button_text-bottom">
+                      </div>
+                      <!-- End Col -->
+          
+                      <div class="col-auto col-sm py-3">
+                          <img src="https://roseathemes.com/space/1/draftfile.php/5/user/draft/117465609/fitbit-primary.svg" alt="Logo" width="140" height="47" class="img-fluid atto_image_button_text-bottom">
+                      </div>
+                      <!-- End Col -->
+                  </div>
+                  <!-- End Row -->
+              </div>
+          </div>
+          <!-- End - Block - Logotypes #1 -->
+         
+         ";s:19:"block10introcontent";s:0:"";s:17:"block10introtitle";s:0:"";s:7:"block11";s:2:"11";s:12:"block11class";s:0:"";s:20:"block11footercontent";s:0:"";s:18:"block11htmlcontent";s:5068:"<!-- Start item -->
+          <div class="wrapper-xxl row m-0">
+              <!-- Col #1 -->
+              <div class="col-lg-5 pr-lg-6 mr-lg-3 align-self-center">
+                  <div class="rui-card--blank">
+                      <div class="rui-icon-box rui-icon-box--primary mb-3">
+                          <svg width="32" height="32" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                              <path d="M4.75 10L12 5.75L19.2501 10L12 14.25L4.75 10Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                              <path d="M12.5 10C12.5 10.2761 12.2761 10.5 12 10.5C11.7239 10.5 11.5 10.2761 11.5 10C11.5 9.72386 11.7239 9.5 12 9.5C12.2761 9.5 12.5 9.72386 12.5 10Z" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"></path>
+                              <path d="M6.75 11.5V16.25C6.75 16.25 8 18.25 12 18.25C16 18.25 17.25 16.25 17.25 16.25V11.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                          </svg>
+                      </div>
+                      <h4 class="lead-3 mt-3">Get real-time insights on your performance.</h4>
+                      <p class="rui-card-text">Auto-generated reports: Get accurate insights on your performance with auto-generated reports that help create successful campaigns.</p>
+                      <ul class="rui-special-list rui-special-list--light">
+                          <li>Personal asset watchlists</li>
+                          <li>Curated market data feed</li>
+                          <li>20+ on-chain, social &amp; dev metrics</li>
+                          <li>Low-latency market signals and alerts</li>
+                          <li class="list-icon-x">Sansheets plugin with pre-made templates</li>
+                      </ul>
+                      <a href="https://rosea.io" class="rui-card-btn-link mt-2">Learn more about the Smart Keyboard</a>
+                  </div>
+              </div>
+              <!-- End Col #1 -->
+          
+              <!-- Col #2 -->
+              <div class="col mt-sm-5 mt-lg-0 rui-img--rounded-fluid">
+                  <img src="https://demo.rosea.io/baz/1/pluginfile.php/1/theme_baz/bazsettingsimgs/0/windows-72LU8QlGs5E-unsplash.jpg" alt="pic" width="800" height="533">
+              </div>
+              <!-- End Col #2 -->
+          </div>
+          <!-- End item -->
+          
+          <!-- Start item -->
+          <hr class="hr-small">
+          
+          <div class="wrapper-xxl row no-gutters mt-5">
+          
+              <!-- Col #1 -->
+              <div class="col mt-sm-5 mt-lg-0 rui-img--rounded-fluid">
+                  <img src="https://demo.rosea.io/baz/1/pluginfile.php/1/theme_baz/bazsettingsimgs/0/img.jpg" alt="pic" width="800" height="533">
+              </div>
+              <!-- End Col #1 -->
+          
+              <!-- Col #2 -->
+              <div class="col-lg-5 pl-lg-6 ml-lg-3 align-self-center">
+                  <div class="rui-card--blank">
+                      <div class="rui-icon-box rui-icon-box--primary mb-3">
+                          <svg width="32" height="32" fill="none" viewBox="0 0 24 24">
+                              <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M19.25 5.75C19.25 5.19772 18.8023 4.75 18.25 4.75H14C12.8954 4.75 12 5.64543 12 6.75V19.25L12.8284 18.4216C13.5786 17.6714 14.596 17.25 15.6569 17.25H18.25C18.8023 17.25 19.25 16.8023 19.25 16.25V5.75Z"></path>
+                              <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M4.75 5.75C4.75 5.19772 5.19772 4.75 5.75 4.75H10C11.1046 4.75 12 5.64543 12 6.75V19.25L11.1716 18.4216C10.4214 17.6714 9.40401 17.25 8.34315 17.25H5.75C5.19772 17.25 4.75 16.8023 4.75 16.25V5.75Z"></path>
+                          </svg>
+                      </div>
+                      <h4 class="lead-3 mt-3">Get real-time insights on your performance.</h4>
+                      <p class="rui-card-text">Auto-generated reports: Get accurate insights on your performance with auto-generated reports that help create successful campaigns.</p>
+                      <ul class="rui-special-list rui-special-list--primary">
+                          <li>Personal asset watchlists</li>
+                          <li>Curated market data feed</li>
+                          <li>20+ on-chain, social &amp; dev metrics</li>
+                          <li>Low-latency market signals and alerts</li>
+                          <li class="list-icon-x">Sansheets plugin with pre-made templates</li>
+                      </ul>
+                      <a href="https://rosea.io" class="rui-card-btn-link mt-2">Learn more about the Smart Keyboard</a>
+                  </div>
+              </div>
+              <!-- End Col #2 -->
+          
+          </div>
+          <!-- End item -->
+         
+         ";s:19:"block11introcontent";s:0:"";s:17:"block11introtitle";s:0:"";s:7:"block12";s:2:"12";s:12:"block12class";s:0:"";s:20:"block12footercontent";s:0:"";s:18:"block12htmlcontent";s:1191:"<div class="row">
+
+          <!-- Start item -->
+          <div class="col-12 col-md-3 px-3 my-3 my-lg-0 text-center">
+              <div class="display-3 mb-2">$99<sup class="text-muted">/ $3k</sup></div>
+              <p class="text-light">Standard / Extended License</p>
+          </div>
+          <!-- End item -->
+
+          <!-- Start item -->
+          <div class="col-12 col-md-3 px-3 my-3 my-lg-0 text-center">
+              <div class="display-3 mb-2">Free</div>
+              <p class="text-light">Updates and bug fixes</p>
+          </div>
+          <!-- End item -->
+
+          <!-- Start item -->
+          <div class="col-12 col-md-3 px-3 my-3 my-lg-0 text-center">
+              <div class="display-3 mb-2">1900+</div>
+              <p class="text-light">Trusted users</p>
+          </div>
+          <!-- End item -->
+
+          <!-- Start item -->
+          <div class="col-12 col-md-3 px-3 my-3 my-lg-0 text-center">
+              <div class="display-3 mb-2">Moodle</div>
+              <p class="text-light">Compatible with Moodle 3.11 and later e.g Moodle 4.0</p>
+          </div>
+          <!-- End item -->
+      </div>
+         
+         ";s:19:"block12introcontent";s:0:"";s:17:"block12introtitle";s:0:"";s:7:"block13";s:2:"13";s:9:"block13bg";s:0:"";s:12:"block13class";s:0:"";s:16:"block13customcss";s:0:"";s:20:"block13footercontent";s:0:"";s:18:"block13htmlcontent";s:0:"";s:19:"block13introcontent";s:0:"";s:17:"block13introtitle";s:0:"";s:7:"block14";s:2:"14";s:9:"block14bg";s:0:"";s:12:"block14class";s:0:"";s:16:"block14customcss";s:0:"";s:18:"block14htmlcontent";s:0:"";s:19:"block14introcontent";s:0:"";s:17:"block14introtitle";s:0:"";s:16:"block14textalign";s:6:"center";s:7:"block15";s:2:"15";s:12:"block15class";s:0:"";s:20:"block15footercontent";s:0:"";s:18:"block15htmlcontent";s:3124:"<div class="wrapper-xxl">
+          <!-- Start item -->
+          <div class="row my-5">
+              <div class="col-xs-12 col-md-6 rui-img--rounded-fluid">
+                  <img src="https://demo.rosea.io/space/1/pluginfile.php/1/theme_space/spacesettingsimgs/0/simg-1.jpeg" alt="pic #1" width="600" height="472">
+              </div>
+              <div class="col-xs-12 col-md-6 d-flex flex-wrap align-content-center px-lg-6">
+                  <div>
+                      <h4 class="lead-2 my-3">space makes it easy to create your e-learning website based on Moodle 3.11 and later.</h4>
+                      <p>Lorem ipsum was purposefully designed to have no meaning, but appear like real text, making it the perfect placeholder.</p>
+                      <a href="https://demo.rosea.io/space/1/course/" class="btn btn-sm btn-secondary mt-3">Explore theme UI
+                      </a>
+                  </div>
+              </div>
+          </div>
+          <!-- End item -->
+      
+          <hr class="hr-small">
+      
+          <!-- Start item -->
+          <div class="row my-5">
+              <div class="col-xs-12 col-md-6 d-flex flex-wrap align-content-center px-lg-6">
+                  <div>
+                      <h4 class="lead-2 my-3">Take full control of theme with the full access to all theme files and dozens of settings.</h4>
+                      <p>According to McClintock, a 15th century typesetter likely scrambled part of Ciceros De Finibus in order to provide placeholder text...</p>
+                      <a href="https://demo.rosea.io/space/1/course/" class="btn btn-sm btn-secondary my-3">Learn more about theme</a>
+                  </div>
+              </div>
+      
+              <div class="col-xs-12 col-md-6 rui-img--rounded-fluid">
+                  <img src="https://demo.rosea.io/space/1/pluginfile.php/1/theme_space/spacesettingsimgs/0/simg-2.png" alt="pic #2" width="600" height="472">
+              </div>
+          </div>
+          <!-- End item -->
+      
+          <hr class="hr-small">
+      
+          <!-- Start item -->
+          <div class="row my-5">
+              <div class="col-xs-12 col-md-6 rui-img--rounded-fluid">
+                  <img src="https://demo.rosea.io/space/1/pluginfile.php/1/theme_space/spacesettingsimgs/0/simg-3.jpeg" alt="pic #4" width="600" height="472">
+              </div>
+              <div class="col-xs-12 col-md-6 d-flex flex-wrap align-content-center px-lg-6">
+                  <div>
+                      <h4 class="lead-2 my-3">Lifetime updates!</h4>
+                      <p>And anyways, as Cecil Adams reasoned, “[Do you really] think graphic arts supply houses were hiring classics scholars in the 1960s?” Perhaps. But it seems reasonable to imagine that there was a version in use far before the age of Letraset.</p>
+                      <a href="https://demo.rosea.io/space/1/course/" class="btn btn-sm btn-secondary my-3">Available courses</a>
+                  </div>
+              </div>
+          </div>
+          <!-- End item -->
+      </div>
+         
+         ";s:19:"block15introcontent";s:0:"";s:17:"block15introtitle";s:0:"";s:7:"block16";s:2:"16";s:12:"block16class";s:0:"";s:20:"block16footercontent";s:0:"";s:18:"block16htmlcontent";s:2633:"<div class="wrapper-md text-center">
+          <!-- start .badge -->
+          <div class="badge badge-info">Space 2.0 is here! Dedicated for Moodle 4.0</div>
+          <!-- end .badge -->
+      
+          <h2 class="display-2 mt-4">Hi! Cześć! ¡Hola!<br>Space 2.0 is here!</h2>
+          <p class="rui-block-text--1 mt-3">Completely redesigned user interface. Better UX. In-build dark mode. All Moodle 4.0 features! Optimized - 50% less CSS,</p>
+          <div class="d-flex mt-4 justify-content-center w-100"><a href="https://rosea.io/space" class="m-2 btn btn-lg btn-dark">Get this theme for $99*</a><a href="https://rosea.gitbook.io/spaceheme/" class="m-2 btn btn-lg btn-secondary">Documentation</a></div>
+      
+          <p class="rui-block-text--light rui-block-text--3 mt-3">Trusted by hundreds customers</p>
+      
+          <div class="row justify-content-center align-items-center">
+              <div class="col-auto col-sm py-3">
+                  <img src="https://roseathemes.com/space/1/pluginfile.php/1/theme_space/spacesettingsimgs/0/mailchimp-primary.svg" alt="Logo" width="200" height="67" class="img-fluid atto_image_button_text-bottom">
+              </div>
+              <!-- End Col -->
+      
+              <div class="col-auto col-sm py-3">
+                  <img src="https://roseathemes.com/space/1/pluginfile.php/1/theme_space/spacesettingsimgs/0/l.svg" alt="Logo" width="140" height="47" class="img-fluid atto_image_button_text-bottom">
+              </div>
+              <!-- End Col -->
+      
+              <div class="col-auto col-sm py-3">
+                  <img src="https://roseathemes.com/space/1/pluginfile.php/1/theme_space/spacesettingsimgs/0/forbes-primary.svg" alt="Logo" width="110" height="28" class="img-fluid atto_image_button_text-bottom">
+              </div>
+              <!-- End Col -->
+      
+              <div class="col-auto col-sm py-3">
+                  <img src="https://roseathemes.com/space/1/pluginfile.php/1/theme_space/spacesettingsimgs/0/capsule-primary.svg" alt="Logo" width="140" height="47" class="img-fluid atto_image_button_text-bottom">
+              </div>
+              <!-- End Col -->
+      
+              <div class="col-auto col-sm py-3">
+                  <img src="https://roseathemes.com/space/1/pluginfile.php/1/theme_space/spacesettingsimgs/0/fitbit-primary.svg" alt="Logo" width="140" height="47" class="img-fluid atto_image_button_text-bottom">
+              </div>
+              <!-- End Col -->
+          </div>
+          <!-- End Row -->
+      
+      </div><!-- end .wrapper-md -->
+         
+         ";s:19:"block16introcontent";s:0:"";s:17:"block16introtitle";s:0:"";s:7:"block17";s:2:"17";s:12:"block17class";s:0:"";s:20:"block17footercontent";s:0:"";s:18:"block17htmlcontent";s:2275:"<!-- Start - Block - Stats #2 -->
+          <!-- Stats -->
+          <div class="wrapper-fw rui-block-stats-1">
+              <div class="w-lg-85 mx-lg-auto">
+                  <div class="row align-items-md-center col-md-divider">
+                      <div class="col-md-4">
+                          <div class="pr-lg-5 border-right">
+                              <div class="d-flex align-items-end">
+                                  <span class="display-2 text-primary">100%</span>
+                                  <span class="badge-sm badge-primary mb-4 ml-2">50% less CSS - 1.1MB<br></span>
+                              </div>
+                              <p>faster then previous version of the Space theme.</p>
+                          </div>
+                      </div>
+                      <!-- End Col -->
+          
+                      <div class="col-md-8 pt-5 pt-md-0">
+                          <div class="pl-lg-5">
+                              <div class="row">
+                                  <div class="col-sm">
+                                      <span class="h2 text-primary">1600+</span>
+                                      <p>customers using Space Moodle theme</p>
+                                  </div>
+                                  <!-- End Col -->
+          
+                                  <div class="col-sm"><span class="h2 text-primary">5 stars</span>
+                                      <p>people love this theme!</p>
+                                  </div>
+                                  <!-- End Col -->
+          
+                                  <div class="col-sm">
+                                      <span class="h2 text-primary">2.0</span>
+                                      <p>completely redesigned, dedicated for Moodle 4.0</p>
+                                  </div>
+                                  <!-- End Col -->
+                              </div>
+                              <!-- End Row -->
+                          </div>
+                      </div>
+                  </div>
+              </div>
+              <!-- End Row -->
+          </div>
+          <!-- End Stats -->
+          <!-- End - Block - Stats #1 -->
+         
+         ";s:19:"block17introcontent";s:0:"";s:17:"block17introtitle";s:0:"";s:7:"block18";s:2:"18";s:12:"block18class";s:0:"";s:20:"block18footercontent";s:330:"<hr class="hr-small" />
+          <div class="wrapper-md mt-5 text-center">
+              <h4 class="lead-4">Join our team!</h4>
+              <div class="rui-block-text--2">Help us on our quest to make good software even better.</div>
+              <a href="#" class="btn btn-link">See courrent openings</a>
+          </div>";s:18:"block18htmlcontent";s:3496:"<!-- Start - Block - Team #2 -->
+          <div class="wrapper-fw rui-block-team-2">
+              <div class="row">
+          
+                  <!-- Start item -->
+                  <div class="rui-block-team-item text-left col-md-3 px-4 text-center">
+                      <img src="https://roseathemes.com/space/1/pluginfile.php/1/theme_space/spacesettingsimgs/0/avatar-4.png" alt="Team #1" width="440" height="440" class="img-fluid atto_image_button_middle">
+                      <h4 class="lead-4 mt-3 mb-0">Adam Smith</h4>
+                      <div class="rui-block-text--3 rui-block-text--light">Senior Coordinator for Faculty Support</div>
+                      <div class="rui-block-text--2 mt-2">From its medieval origins to the digital era, learn everything there is to know about the ubiquitous lorem ipsum passage.</div>
+                  </div>
+                  <!-- End item -->
+          
+                  <!-- Start item -->
+                  <div class="rui-block-team-item text-left col-md-3 px-4 text-center">
+                      <img src="https://roseathemes.com/space/1/pluginfile.php/1/theme_space/spacesettingsimgs/0/avatar-3.png" alt="Team #1" width="440" height="440" class="img-fluid atto_image_button_middle">
+                      <h4 class="lead-4 mt-3 mb-0">Christa McAuliffe</h4>
+                      <div class="rui-block-text--3 rui-block-text--light">Program Assistant, Middle East Professional Learning Initiative</div>
+                      <div class="rui-block-text--2 mt-2">Lorem ipsum began as scrambled, nonsensical Latin derived from Ciceros 1st-century BC text De Finibus Bonorum et Malorum</div>
+                  </div>
+                  <!-- End item -->
+          
+                  <!-- Start item -->
+                  <div class="rui-block-team-item text-left col-md-3 px-4 text-center">
+                      <img src="https://roseathemes.com/space/1/pluginfile.php/1/theme_space/spacesettingsimgs/0/avatar-2.png" alt="ku" width="440" height="440" class="img-fluid atto_image_button_text-bottom">
+                      <h4 class="lead-4 mt-3 mb-0">Helen Keller</h4>
+                      <div class="rui-block-text--3 rui-block-text--light">IT Service Center Support Technician</div>
+                      <div class="rui-block-text--2 mt-2">The placeholder text, beginning with the line “Lorem ipsum dolor sit amet, consectetur adipiscing elit”, looks like Latin because in its youth, centuries ago, it was Latin.</div>
+                  </div>
+                  <!-- End item -->
+          
+                  <!-- Start item -->
+                  <div class="rui-block-team-item text-left col-md-3 px-4 text-center">
+                      <img src="https://roseathemes.com/space/1/pluginfile.php/1/theme_space/spacesettingsimgs/0/avatar-5.png" alt="team #3" width="1320" height="1320" class="img-fluid atto_image_button_text-bottom">
+                      <h4 class="lead-4 mt-3 mb-0">Mark Twain</h4>
+                      <div class="rui-block-text--3 rui-block-text--light">Audio Visual Technology Infrastructure Specialist</div>
+                      <div class="rui-block-text--2 mt-2">Lorem ipsum was purposefully designed to have no meaning, but appear like real text, making it the perfect placeholder.</div>
+                  </div>
+                  <!-- End item -->
+          
+              </div>
+          </div>
+          <!-- End - Block - Team #2 -->
+         
+         ";s:19:"block18introcontent";s:422:"<div class="wrapper-md mb-5"><h3 class="rui-block-title">Team</h3><div class="rui-block-desc text-center">It prepares them to thrive in today’s world — and to shape tomorrow’s. Apple is constantly creating resources to help educators do just that. Not only powerful products, but also tools, inspiration, and curricula to create magical learning experiences and make every moment of screen time worth it.</div></div>";s:17:"block18introtitle";s:0:"";s:7:"block19";s:2:"19";s:9:"block19bg";s:0:"";s:12:"block19class";s:0:"";s:16:"block19customcss";s:49:"background-position: top; background-size: cover;";s:20:"block19footercontent";s:0:"";s:18:"block19htmlcontent";s:245:"<div class="mt-4"><a href="https://rosea.io/space" class="btn btn-lg btn-dark">Get this theme for $99*</a></div><div class="mt-2"><a href="https://space.rosea.io/doc" class="btn btn-sm btn-secondary">Documentation</a></div>
+         
+         ";s:19:"block19introcontent";s:129:"Our exclusive lifetime update theme & user-centered design<br />will keep your moodle site running strong for many years to come!";s:17:"block19introtitle";s:42:"One-time charge<br />Get this theme today!";s:16:"block19textalign";s:6:"center";s:11:"block1class";s:0:"";s:11:"block1count";s:1:"1";s:19:"block1slidecaption1";s:395:"<div class="rui-hero-desc">From its medieval origins to the digital era, learn everything there is to know about the ubiquitous lorem ipsum passage.</div>
+                    <div class="rui-hero-btns d-inline-flex flex-wrap hideforloggedin">
+                        <a href="https://demo.rosea.io/space/1/login/index.php" class="btn btn-lg btn-primary">Sign up</a>
+                    </div>";s:15:"block1slidecss1";s:0:"";s:15:"block1slideimg1";s:0:"";s:21:"block1sliderwrapperbg";s:0:"";s:17:"block1slidetitle1";s:0:"";s:18:"block1wrapperalign";s:1:"1";s:6:"block2";s:1:"2";s:11:"block2class";s:0:"";s:19:"block2footercontent";s:0:"";s:17:"block2herocaption";s:359:"<div class="rui-hero-desc">From its medieval origins to the digital era, learn everything there is to know about the ubiquitous lorem ipsum passage.</div>
+        <div class="rui-hero-btns d-inline-flex flex-wrap hideforloggedin">
+            <a href="https://demo.rosea.io/space/1/login/index.php" class="btn btn-lg btn-primary">Sign up</a>
+        </div>";s:15:"block2herotitle";s:0:"";s:17:"block2htmlcontent";s:245:"<div class="mt-4"><a href="https://rosea.io/space" class="btn btn-lg btn-dark">Get this theme for $99*</a></div><div class="mt-2"><a href="https://space.rosea.io/doc" class="btn btn-sm btn-secondary">Documentation</a></div>
+         
+         ";s:18:"block2introcontent";s:129:"Our exclusive lifetime update theme & user-centered design<br />will keep your moodle site running strong for many years to come!";s:14:"block2videomp4";s:0:"";s:17:"block2videoposter";s:0:"";s:15:"block2videowebm";s:0:"";s:18:"block2wrapperalign";s:1:"1";s:15:"block2wrapperbg";s:0:"";s:6:"block3";s:1:"3";s:11:"block3class";s:0:"";s:19:"block3footercontent";s:0:"";s:17:"block3herocaption";s:359:"<div class="rui-hero-desc">From its medieval origins to the digital era, learn everything there is to know about the ubiquitous lorem ipsum passage.</div>
+        <div class="rui-hero-btns d-inline-flex flex-wrap hideforloggedin">
+            <a href="https://demo.rosea.io/space/1/login/index.php" class="btn btn-lg btn-primary">Sign up</a>
+        </div>";s:15:"block3herotitle";s:0:"";s:17:"block3htmlcontent";s:245:"<div class="mt-4"><a href="https://rosea.io/space" class="btn btn-lg btn-dark">Get this theme for $99*</a></div><div class="mt-2"><a href="https://space.rosea.io/doc" class="btn btn-sm btn-secondary">Documentation</a></div>
+         
+         ";s:9:"block3img";s:0:"";s:18:"block3introcontent";s:129:"Our exclusive lifetime update theme & user-centered design<br />will keep your moodle site running strong for many years to come!";s:18:"block3wrapperalign";s:1:"1";s:15:"block3wrapperbg";s:0:"";s:6:"block4";s:1:"4";s:13:"block4answer1";s:0:"";s:11:"block4class";s:0:"";s:11:"block4count";s:1:"1";s:19:"block4footercontent";s:0:"";s:17:"block4htmlcontent";s:0:"";s:18:"block4introcontent";s:0:"";s:16:"block4introtitle";s:0:"";s:15:"block4question1";s:0:"";s:6:"block5";s:1:"5";s:11:"block5class";s:0:"";s:11:"block5count";s:1:"5";s:19:"block5footercontent";s:0:"";s:17:"block5htmlcontent";s:450:"<div class="wrapper-fw rui-block-desc rui-block-desc--lg">Custom block no.5 allows you to display multiple logotypes. It prepares them to thrive in today’s world — and to shape tomorrow’s. Apple is constantly creating resources to help educators do just that. Not only powerful products, but also tools, inspiration, and curricula to create magical learning experiences and make every moment of screen time worth it.</div>
+         
+         ";s:18:"block5introcontent";s:0:"";s:16:"block5introtitle";s:0:"";s:14:"block5itemimg1";s:0:"";s:14:"block5itemimg2";s:0:"";s:14:"block5itemimg3";s:0:"";s:14:"block5itemimg4";s:0:"";s:14:"block5itemimg5";s:0:"";s:16:"block5itemtitle1";s:0:"";s:16:"block5itemtitle2";s:0:"";s:16:"block5itemtitle3";s:0:"";s:16:"block5itemtitle4";s:0:"";s:16:"block5itemtitle5";s:0:"";s:14:"block5itemurl1";s:0:"";s:14:"block5itemurl2";s:0:"";s:14:"block5itemurl3";s:0:"";s:14:"block5itemurl4";s:0:"";s:14:"block5itemurl5";s:0:"";s:18:"block5slidesperrow";s:1:"5";s:6:"block6";s:1:"6";s:11:"block6class";s:0:"";s:19:"block6footercontent";s:0:"";s:17:"block6htmlcontent";s:1368:"<div class="rui-card-testimonials-grid wrapper-xxl">
+          <!-- Start item -->
+          <div class="rui-block-testimonials-item text-center">
+              <div class="rui-block-testimonials--quote">"Everything you need and nothing you don’t"</div>
+              <h4 class="rui-block-testimonials--author w-100">Ryan Cook</h4>
+              <span class="rui-block-testimonials--additional">CEO | SoSimple</span>
+          </div>
+          <!-- End item -->
+          <!-- Start item -->
+          <div class="rui-block-testimonials-item text-center">
+              <div class="rui-block-testimonials--quote">“I couldn’t imagine using anything else!”</div>
+              <h4 class="rui-block-testimonials--author w-100">Tim Smith</h4>
+              <span class="rui-block-testimonials--additional">UX Designer | Clean&amp;Simple</span>
+          </div>
+          <!-- End item -->
+          <!-- Start item -->
+          <div class="rui-block-testimonials-item text-center">
+              <div class="rui-block-testimonials--quote">"Lorem ipsum dolar set”</div>
+              <h4 class="rui-block-testimonials--author w-100">Anna van Diesel</h4>
+              <span class="rui-block-testimonials--additional">Senior Product Designer | ABC Design</span>
+          </div>
+          <!-- End item -->
+      </div>
+         
+         ";s:18:"block6introcontent";s:0:"";s:16:"block6introtitle";s:0:"";s:6:"block7";s:1:"7";s:11:"block7class";s:0:"";s:19:"block7footercontent";s:0:"";s:17:"block7htmlcontent";s:5429:"<!-- Start - Block -->
+          <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3">
+          
+              <!-- Start item -->
+              <div class="rui-card-item col mb-4">
+                  <div class="rui-color-card" style="background-color: #e9edf8; border-radius: 5px">
+                      <div class="rui-card-body">
+          
+                          <!-- icon -->
+                          <div>
+                              <svg width="60" height="60" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                  <path d="M17.45 12C17.45 14.8995 15.0994 17.25 12.2 17.25C9.30046 17.25 6.94995 14.8995 6.94995 12C6.94995 9.10051 9.30046 6.75 12.2 6.75C15.0994 6.75 17.45 9.10051 17.45 12Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                                  <path d="M14.7 13C14.7 13.2761 14.4761 13.5 14.2 13.5C13.9238 13.5 13.7 13.2761 13.7 13C13.7 12.7239 13.9238 12.5 14.2 12.5C14.4761 12.5 14.7 12.7239 14.7 13Z" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"></path>
+                                  <path d="M9.94031 7.02836C7.63854 5.28601 5.78831 4.43988 5.21547 5.01271C4.33767 5.89052 6.79189 9.76794 10.6971 13.6732C14.6024 17.5784 18.4798 20.0327 19.3576 19.1549C19.9442 18.5682 19.0427 16.6419 17.2145 14.2629" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                              </svg>
+                          </div>
+                          <!-- end icon -->
+          
+                          <h3 class="rui-card-title mt-4">Get started</h3>
+                          <p class="rui-card-text">With supporting text below as a natural lead-in to additional content.</p>
+                          <a href="https://rosea.io" class="btn btn-sm btn-dark mt-2">More quick guides</a>
+                      </div>
+                  </div>
+              </div>
+              <!-- End item -->
+          
+              <!-- Start item -->
+              <div class="rui-card-item col mb-4">
+                  <div class="rui-color-card" style="background-color: #dcebe7; border-radius: 5px">
+                      <div class="rui-card-body">
+          
+                          <!-- icon -->
+                          <div>
+                              <svg width="60" height="60" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                  <path d="M12 10.75V13.25M12 10.75H8.75M12 10.75H15.25M12 13.25L9.75 16.25M12 13.25L14.25 16.25M19.25 12C19.25 16.0041 16.0041 19.25 12 19.25C7.99594 19.25 4.75 16.0041 4.75 12C4.75 7.99594 7.99594 4.75 12 4.75C16.0041 4.75 19.25 7.99594 19.25 12Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                                  <path d="M12.5 8C12.5 8.27614 12.2761 8.5 12 8.5C11.7239 8.5 11.5 8.27614 11.5 8C11.5 7.72386 11.7239 7.5 12 7.5C12.2761 7.5 12.5 7.72386 12.5 8Z" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"></path>
+                              </svg>
+                          </div>
+                          <!-- end icon -->
+          
+                          <h3 class="rui-card-title mt-4">Manage your course</h3>
+                          <p class="rui-card-text">With supporting text below as a natural lead-in to additional content.</p>
+                          <a href="https://rosea.io" class="btn btn-sm btn-dark mt-2">More for teachers</a>
+                      </div>
+                  </div>
+              </div>
+              <!-- End item -->
+          
+              <!-- Start item -->
+              <div class="rui-card-item col mb-4">
+                  <div class="rui-color-card" style="background-color: #002eb3; border-radius: 5px">
+                      <div class="rui-card-body" style="color: #fff;">
+          
+                          <!-- icon -->
+                          <div>
+                              <svg width="60" height="60" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                  <path d="M10 15.75C10 15.75 11 16.25 12 16.25C13 16.25 14 15.75 14 15.75M9.75 10.75V13.25M7 9.25C5.75736 9.25 4.75 8.24264 4.75 7C4.75 5.75736 5.75736 4.75 7 4.75C8.24264 4.75 9.25 5.75736 9.25 7M17 9.25C18.2426 9.25 19.25 8.24264 19.25 7C19.25 5.75736 18.2426 4.75 17 4.75C15.7574 4.75 14.75 5.75736 14.75 7M14.25 10.75V13.25M18.25 13C18.25 16.4518 15.4518 19.25 12 19.25C8.54822 19.25 5.75 16.4518 5.75 13C5.75 9.54822 8.54822 6.75 12 6.75C15.4518 6.75 18.25 9.54822 18.25 13Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                              </svg>
+                          </div>
+                          <!-- end icon -->
+          
+                          <h3 class="rui-card-title mt-4">Whats new</h3>
+                          <p class="rui-card-text">With supporting text below as a natural lead-in to additional content.</p>
+                          <a href="https://rosea.io" class="btn btn-sm btn-dark mt-2">New features list</a>
+                      </div>
+                  </div>
+              </div>
+              <!-- End item -->
+          
+          </div>
+          <!-- End - Block -->
+         
+         ";s:18:"block7introcontent";s:0:"";s:16:"block7introtitle";s:0:"";s:6:"block8";s:1:"8";s:11:"block8class";s:0:"";s:19:"block8footercontent";s:0:"";s:17:"block8htmlcontent";s:3742:"<div class="row row-cols-1 row-cols-lg-2 mx-0">
+
+          <!-- Start item -->
+          <div class="rui-card-item col mb-4">
+              <div class="rui-card d-block d-md-inline-flex align-items-center border-0" style="background: #eeead4;">
+                  <div class="rui-card-item-img rui-img--rounded-fluid mr-md-2"><img src="https://demo.rosea.io/space/1/pluginfile.php/1/theme_space/spacesettingsimgs/0/download.jpg" alt="pic 1" width="400" height="400"></div>
+                  <div class="rui-card-body mt-3 mt-md-0 col">
+                      <h3 class="rui-card-title">Industry expert teachers</h3>
+                      <p class="rui-card-text">With supporting text below as a natural lead-in to additional content.</p>
+                      <a href="https://demo.rosea.io/space/1/course/" class="btn btn-sm btn-dark">Learn more about theme</a>
+                  </div>
+              </div>
+          </div>
+          <!-- End item -->
+      
+          <!-- Start item -->
+          <div class="rui-card-item col mb-4">
+              <div class="rui-card d-block d-md-inline-flex align-items-center border-0" style="background: #c1d3d3;">
+                  <div class="rui-card-item-img rui-img--rounded-fluid mr-md-2"><img src="https://demo.rosea.io/space/1/pluginfile.php/1/theme_space/spacesettingsimgs/0/sq-2.jpg" alt="pic 2" width="400" height="400"></div>
+                  <div class="rui-card-body mt-3 mt-md-0 col">
+                      <h3 class="rui-card-title">Students community</h3>
+                      <p class="rui-card-text">With supporting text below as a natural lead-in to additional content.</p>
+                      <a href="https://demo.rosea.io/space/1/course/" class="btn btn-sm btn-dark">Documentation</a>
+                  </div>
+              </div>
+          </div>
+          <!-- End item -->
+      
+          <!-- Start item -->
+          <div class="rui-card-item col mb-4">
+              <div class="rui-card d-block d-md-inline-flex align-items-center border-0" style="background: #dcd5d9;">
+                  <div class="rui-card-item-img rui-img--rounded-fluid mr-md-2"><img src="https://demo.rosea.io/space/1/pluginfile.php/1/theme_space/spacesettingsimgs/0/sq-3.jpg" alt="pic 3" width="400" height="400"></div>
+                  <div class="rui-card-body mt-3 mt-md-0 col">
+                      <h3 class="rui-card-title">Up-to-date course content</h3>
+                      <p class="rui-card-text">With supporting text below as a natural lead-in to additional content.</p>
+                      <a href="https://demo.rosea.io/space/1/course/" class="btn btn-sm btn-dark">All categories</a>
+                  </div>
+              </div>
+          </div>
+          <!-- End item -->
+      
+          <!-- Start item -->
+          <div class="rui-card-item col mb-4">
+              <div class="rui-card d-block d-md-inline-flex align-items-center border-0" style="background: #cdd6c1;">
+                  <div class="rui-card-item-img rui-img--rounded-fluid mr-md-2"><img src="https://demo.rosea.io/space/1/pluginfile.php/1/theme_space/spacesettingsimgs/0/sq-5.jpg" alt="pic 4" width="400" height="400"></div>
+                  <div class="rui-card-body mt-3 mt-md-0 col">
+                      <h3 class="rui-card-title">Special title treatment</h3>
+                      <p class="rui-card-text">With supporting text below as a natural lead-in to additional content.</p>
+                      <a href="https://demo.rosea.io/space/1/course/" class="btn btn-sm btn-dark">Learn more about theme</a>
+                  </div>
+              </div>
+          </div>
+          <!-- End item -->
+      
+      </div>
+         
+         ";s:18:"block8introcontent";s:0:"";s:16:"block8introtitle";s:0:"";s:6:"block9";s:1:"9";s:11:"block9class";s:0:"";s:19:"block9footercontent";s:0:"";s:17:"block9htmlcontent";s:9244:"<div class="row row-cols-1 row-cols-md-2 row-cols-lg-3">
+
+          <!-- Start item -->
+          <div class="rui-card-item col mb-4">
+              <div class="rui-card">
+                  <div class="rui-card-body">
+      
+                      <!-- icon -->
+                      <div class="rui-rounded-icon mb-3">
+                          <svg width="32" height="32" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                              <path d="M4.75 10L12 5.75L19.2501 10L12 14.25L4.75 10Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                              <path d="M12.5 10C12.5 10.2761 12.2761 10.5 12 10.5C11.7239 10.5 11.5 10.2761 11.5 10C11.5 9.72386 11.7239 9.5 12 9.5C12.2761 9.5 12.5 9.72386 12.5 10Z" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"></path>
+                              <path d="M6.75 11.5V16.25C6.75 16.25 8 18.25 12 18.25C16 18.25 17.25 16.25 17.25 16.25V11.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                          </svg>
+                      </div>
+                      <!-- end icon -->
+      
+                      <h3 class="rui-card-title">Get started</h3>
+                      <p class="rui-card-text">With supporting text below as a natural lead-in to additional content.</p>
+                      <a href="https://rosea.io" class="btn btn-sm btn-secondary">More quick guides</a>
+                  </div>
+              </div>
+          </div>
+          <!-- End item -->
+      
+          <!-- Start item -->
+          <div class="rui-card-item col mb-4">
+              <div class="rui-card">
+                  <div class="rui-card-body">
+      
+                      <!-- icon -->
+                      <div class="rui-rounded-icon mb-3">
+                          <svg width="32" height="32" fill="none" viewBox="0 0 24 24">
+                              <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M19.25 5.75C19.25 5.19772 18.8023 4.75 18.25 4.75H14C12.8954 4.75 12 5.64543 12 6.75V19.25L12.8284 18.4216C13.5786 17.6714 14.596 17.25 15.6569 17.25H18.25C18.8023 17.25 19.25 16.8023 19.25 16.25V5.75Z"></path>
+                              <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M4.75 5.75C4.75 5.19772 5.19772 4.75 5.75 4.75H10C11.1046 4.75 12 5.64543 12 6.75V19.25L11.1716 18.4216C10.4214 17.6714 9.40401 17.25 8.34315 17.25H5.75C5.19772 17.25 4.75 16.8023 4.75 16.25V5.75Z"></path>
+                          </svg>
+                      </div>
+                      <!-- end icon -->
+      
+                      <h3 class="rui-card-title">Manage your course</h3>
+                      <p class="rui-card-text">With supporting text below as a natural lead-in to additional content.</p>
+                      <a href="https://rosea.io" class="btn btn-sm btn-secondary">More for teachers</a>
+                  </div>
+              </div>
+          </div>
+          <!-- End item -->
+      
+          <!-- Start item -->
+          <div class="rui-card-item col mb-4">
+              <div class="rui-card">
+                  <div class="rui-card-body">
+      
+                      <!-- icon -->
+                      <div class="rui-rounded-icon mb-3">
+                          <svg width="32" height="32" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                              <path d="M4.75 6.75V8.25C4.75 9.35457 5.64543 10.25 6.75 10.25H8.25C9.35457 10.25 10.25 9.35457 10.25 8.25V6.75C10.25 5.64543 9.35457 4.75 8.25 4.75H6.75C5.64543 4.75 4.75 5.64543 4.75 6.75Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                              <path d="M14.75 7H19.25" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                              <path d="M17 4.75L17 9.25" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                              <path d="M4.75 15.75V17.25C4.75 18.3546 5.64543 19.25 6.75 19.25H8.25C9.35457 19.25 10.25 18.3546 10.25 17.25V15.75C10.25 14.6454 9.35457 13.75 8.25 13.75H6.75C5.64543 13.75 4.75 14.6454 4.75 15.75Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                              <path d="M13.75 15.75V17.25C13.75 18.3546 14.6454 19.25 15.75 19.25H17.25C18.3546 19.25 19.25 18.3546 19.25 17.25V15.75C19.25 14.6454 18.3546 13.75 17.25 13.75H15.75C14.6454 13.75 13.75 14.6454 13.75 15.75Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                          </svg>
+                      </div>
+                      <!-- end icon -->
+      
+                      <h3 class="rui-card-title">Add activities</h3>
+                      <p class="rui-card-text">With supporting text below as a natural lead-in to additional content.</p>
+                      <a href="https://rosea.io" class="btn btn-sm btn-secondary">More activities</a>
+                  </div>
+              </div>
+          </div>
+          <!-- End item -->
+      
+          <!-- Start item -->
+          <div class="rui-card-item col mb-4">
+              <div class="rui-card">
+                  <div class="rui-card-body">
+      
+                      <!-- icon -->
+                      <div class="rui-rounded-icon mb-3">
+                          <svg width="32" height="32" fill="none" viewBox="0 0 24 24">
+                              <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M12 4.75L13.75 10.25H19.25L14.75 13.75L16.25 19.25L12 15.75L7.75 19.25L9.25 13.75L4.75 10.25H10.25L12 4.75Z"></path>
+                          </svg>
+                      </div>
+                      <!-- end icon -->
+      
+                      <h3 class="rui-card-title">Whats new</h3>
+                      <p class="rui-card-text">With supporting text below as a natural lead-in to additional content.</p>
+                      <a href="https://rosea.io" class="btn btn-sm btn-secondary">New features list</a>
+                  </div>
+              </div>
+          </div>
+          <!-- End item -->
+      
+          <!-- Start item -->
+          <div class="rui-card-item col mb-4">
+              <div class="rui-card">
+                  <div class="rui-card-body">
+      
+                      <!-- icon -->
+                      <div class="rui-rounded-icon mb-3">
+                          <svg width="32" height="32" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                              <path d="M10.75 13.25V10.25H8.25V11.25C8.25 11.8023 7.80228 12.25 7.25 12.25H5.75C5.19772 12.25 4.75 11.8023 4.75 11.25V5.75C4.75 5.19772 5.19772 4.75 5.75 4.75H7.25C7.80228 4.75 8.25 5.19772 8.25 5.75V6.75H15C15 6.75 19.25 6.75 19.25 11.25C19.25 11.25 17 10.25 14.25 10.25V13.25M10.75 13.25H14.25M10.75 13.25V19.25M14.25 13.25V19.25" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                          </svg>
+                      </div>
+                      <!-- end icon -->
+      
+                      <h3 class="rui-card-title">Manage your site</h3>
+                      <p class="rui-card-text">With supporting text below as a natural lead-in to additional content.</p>
+                      <a href="https://rosea.io" class="btn btn-sm btn-secondary">More for administrators</a>
+                  </div>
+              </div>
+          </div>
+          <!-- End item -->
+      
+          <!-- Start item -->
+          <div class="rui-card-item col mb-4">
+              <div class="rui-card">
+                  <div class="rui-card-body">
+      
+                      <!-- icon -->
+                      <div class="rui-rounded-icon mb-3">
+                          <svg width="32" height="32" fill="none" viewBox="0 0 24 24">
+                              <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M7.75 7.75H19.25L17.6128 14.7081C17.4002 15.6115 16.5941 16.25 15.666 16.25H11.5395C10.632 16.25 9.83827 15.639 9.60606 14.7618L7.75 7.75ZM7.75 7.75L7 4.75H4.75"></path>
+                              <circle cx="10" cy="19" r="1" fill="currentColor"></circle>
+                              <circle cx="17" cy="19" r="1" fill="currentColor"></circle>
+                          </svg>
+                      </div>
+                      <!-- end icon -->
+      
+                      <h3 class="rui-card-title">Premium Moodle Themes</h3>
+                      <p class="rui-card-text">With supporting text below as a natural lead-in to additional content.</p>
+                      <a href="https://rosea.io" class="btn btn-sm btn-secondary">Check out my portfolio</a>
+                  </div>
+              </div>
+          </div>
+          <!-- End item -->
+      
+      </div>
+         
+         ";s:18:"block9introcontent";s:0:"";s:16:"block9introtitle";s:0:"";s:15:"btnborderradius";s:0:"";s:9:"cccfooter";s:1:"1";s:11:"cccteachers";s:1:"1";s:16:"closecustomalert";s:1:"0";s:9:"colorbody";s:0:"";s:11:"colorbodybg";s:0:"";s:14:"colorbodylight";s:0:"";s:18:"colorbodysecondary";s:0:"";s:11:"colorborder";s:0:"";s:13:"colordrawerbg";s:0:"";s:15:"colordrawerlink";s:0:"";s:16:"colordrawerlinkh";s:0:"";s:20:"colordrawernavbtnbgh";s:0:"";s:21:"colordrawernavbtntext";s:0:"";s:22:"colordrawernavbtntexth";s:0:"";s:26:"colordrawernavbtntextlight";s:0:"";s:23:"colordrawernavcontainer";s:0:"";s:20:"colordrawerscrollbar";s:0:"";s:15:"colordrawertext";s:0:"";s:13:"colorfooterbg";s:0:"";s:17:"colorfooterborder";s:0:"";s:15:"colorfooterlink";s:0:"";s:20:"colorfooterlinkhover";s:0:"";s:15:"colorfootertext";s:0:"";s:12:"colorgray100";s:0:"";s:12:"colorgray200";s:0:"";s:12:"colorgray300";s:0:"";s:12:"colorgray400";s:0:"";s:12:"colorgray500";s:0:"";s:12:"colorgray600";s:0:"";s:12:"colorgray700";s:0:"";s:12:"colorgray800";s:0:"";s:12:"colorgray900";s:0:"";s:13:"colorheadings";s:0:"";s:9:"colorlink";s:0:"";s:14:"colorlinkhover";s:0:"";s:16:"colorloginbgtext";s:0:"";s:15:"colorprimary100";s:0:"";s:15:"colorprimary200";s:0:"";s:15:"colorprimary300";s:0:"";s:15:"colorprimary400";s:0:"";s:15:"colorprimary500";s:0:"";s:15:"colorprimary600";s:0:"";s:15:"colorprimary700";s:0:"";s:15:"colorprimary800";s:0:"";s:15:"colorprimary900";s:0:"";s:13:"colortopbarbg";s:0:"";s:14:"colortopbarbtn";s:0:"";s:19:"colortopbarbtnhover";s:0:"";s:23:"colortopbarbtnhovertext";s:0:"";s:18:"colortopbarbtntext";s:0:"";s:15:"colortopbartext";s:0:"";s:19:"coursecarddesclimit";s:3:"100";s:17:"courseprogressbar";s:1:"0";s:15:"customalerthtml";s:0:"";s:14:"customdcolsize";s:0:"";s:12:"customdmlogo";s:0:"";s:15:"customloginlogo";s:0:"";s:10:"customlogo";s:0:"";s:13:"customlogotxt";s:5:"Space";s:15:"customsfcontent";s:0:"";s:19:"customsidebardmlogo";s:0:"";s:17:"customsidebarlogo";s:0:"";s:19:"customsignupoutside";s:1:"1";s:15:"customsmcontent";s:0:"";s:15:"customstcontent";s:0:"";s:13:"darkmodetheme";s:1:"1";s:13:"displayblock1";s:1:"0";s:14:"displayblock10";s:1:"1";s:14:"displayblock11";s:1:"1";s:14:"displayblock12";s:1:"1";s:14:"displayblock13";s:1:"1";s:14:"displayblock14";s:1:"1";s:14:"displayblock15";s:1:"1";s:14:"displayblock16";s:1:"0";s:14:"displayblock17";s:1:"1";s:14:"displayblock18";s:1:"1";s:14:"displayblock19";s:1:"1";s:13:"displayblock2";s:1:"1";s:13:"displayblock3";s:1:"1";s:13:"displayblock4";s:1:"1";s:13:"displayblock5";s:1:"1";s:13:"displayblock6";s:1:"1";s:13:"displayblock7";s:1:"1";s:13:"displayblock8";s:1:"1";s:13:"displayblock9";s:1:"1";s:18:"displaycustomalert";s:1:"0";s:16:"displayhrblock10";s:1:"1";s:16:"displayhrblock11";s:1:"1";s:16:"displayhrblock12";s:1:"1";s:16:"displayhrblock13";s:1:"1";s:16:"displayhrblock14";s:1:"1";s:16:"displayhrblock15";s:1:"1";s:16:"displayhrblock16";s:1:"1";s:16:"displayhrblock17";s:1:"1";s:16:"displayhrblock18";s:1:"1";s:16:"displayhrblock19";s:1:"1";s:15:"displayhrblock4";s:1:"1";s:15:"displayhrblock5";s:1:"1";s:15:"displayhrblock6";s:1:"1";s:15:"displayhrblock7";s:1:"1";s:15:"displayhrblock8";s:1:"1";s:15:"displayhrblock9";s:1:"1";s:7:"favicon";s:0:"";s:8:"fontbody";s:21:"'Poppins', sans-serif";s:9:"fontfiles";s:0:"";s:12:"fontheadings";s:0:"";s:14:"fontweightbold";s:3:"700";s:18:"fontweightheadings";s:3:"700";s:16:"fontweightmedium";s:3:"500";s:17:"fontweightregular";s:3:"400";s:11:"footerbgimg";s:0:"";s:12:"footerblock1";s:221:"<p>Sample paragraph lorem ipsum dolar set...</p>
+        <ol class="px-4 mt-3">
+            <li>Stanrad list</li>
+            <li>Lorem ipsum</li>
+            <li>Dolar set...</li>
+        </ol>
+         
+         ";s:12:"footerblock2";s:1756:"<div class="rui-footer-nav row text-sm-center text-md-left my-5">
+        <div class="col-sm-12 col-md-6 col-lg my-sm-2 my-md-0">
+            <h5 class="rui-footer-nav-title">Company</h5>
+            <ul class="rui-footer-nav-items list-unstyled mb-0">
+                <li> <a href="#">About Us</a> </li>
+                <li> <a href="#">Blog</a><span class="badge-xs badge-success ml-2">New</span> </li>
+                <li> <a href="#">FAQ</a> </li>
+                <li> <a href="#">Contact</a> </li>
+                <li> <a href="#">Help</a> </li>
+            </ul>
+        </div>
+        <div class="col-sm-12 col-md-6 col-lg my-sm-2 my-md-0">
+            <h5 class="rui-footer-nav-title">Products</h5>
+            <ul class="rui-footer-nav-items list-unstyled mb-0">
+                <li> <a href="#">Parents</a> </li>
+                <li> <a href="#">Schools</a> </li>
+                <li> <a href="#">Partners</a> </li>
+            </ul>
+        </div>
+        <div class="col-sm-12 col-md-6 col-lg my-sm-2 my-md-0">
+            <h5 class="rui-footer-nav-title">Legal</h5>
+            <ul class="rui-footer-nav-items list-unstyled mb-0">
+                <li> <a href="#">Privacy Policy</a> </li>
+                <li> <a href="#">Terms of Service</a> </li>
+            </ul>
+        </div>
+        <div class="col-sm-12 col-md-6 col-lg my-sm-2 my-md-0">
+            <h5 class="rui-footer-nav-title">Office</h5>
+            <ul class="rui-footer-nav-items list-unstyled mb-0">
+                <li>
+                    <p> Victoria Garden City, Lagos </p>
+                </li>
+                <li> 1234 Fruitvale Avenue, Oakland, Califonia, USA. </li>
+            </ul>
+        </div>
+    </div>
+         
+         ";s:12:"footerblock3";s:136:"Get this theme exclusively on the ThemeForest: More premium moodle themes: <a href="https://rosea.io">rosea.io</a>
+         
+         ";s:10:"footercopy";s:145:"<p><strong>Copyright © 2020 space Moodle Theme. All right reserved.</strong></p>space premium moodle theme by RoseaThemes.
+         
+         ";s:15:"footercustomcss";s:0:"";s:15:"googleanalytics";s:0:"";s:13:"googlefonturl";s:78:"https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap";s:13:"ipcourseimage";s:1:"1";s:15:"ipcoursesummary";s:1:"1";s:7:"loginbg";s:0:"";s:21:"logincustomfooterhtml";s:0:"";s:18:"loginfootercontent";s:0:"";s:17:"loginhtmlcontent1";s:0:"";s:17:"loginhtmlcontent2";s:0:"";s:17:"loginhtmlcontent3";s:0:"";s:14:"loginintrotext";s:0:"";s:16:"loginlogooutside";s:1:"0";s:4:"scss";s:0:"";s:7:"scsspre";s:0:"";s:17:"seoappletouchicon";s:0:"";s:11:"seometadesc";s:0:"";s:13:"seothemecolor";s:0:"";s:14:"setcourseimage";s:1:"0";s:18:"setdashboardlayout";s:1:"2";s:14:"setloginlayout";s:1:"1";s:23:"showblock1sliderwrapper";s:1:"1";s:17:"showblock2wrapper";s:1:"1";s:17:"showblock3wrapper";s:1:"1";s:32:"showhintcourseguestaccesssetting";s:1:"0";s:20:"showhintcoursehidden";s:1:"0";s:15:"signupintrotext";s:0:"";s:10:"signuptext";s:0:"";s:17:"stickybreadcrumbs";s:2:"no";s:12:"stringaccess";s:10:"Get access";s:16:"stringallcourses";s:363:"<span>List of all available courses</span><svg width="18" height="18" fill="none" viewBox="0 0 24 24"><path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M13.75 6.75L19.25 12L13.75 17.25"></path><path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M19 12H4.75"></path></svg>";s:17:"stringbacktologin";s:24:"Already have an account?";s:8:"stringca";s:22:"Don't have an account?";s:13:"stringdetails";s:0:"";s:15:"stringmycourses";s:10:"My Courses";s:15:"stringnocourses";s:36:"You are not enrolled in any courses.";s:11:"themeauthor";s:1:"1";s:16:"topbarcustomhtml";s:0:"";s:18:"topbarlogoareaonon";s:2:"no";s:19:"turnoffsidebaradmin";s:1:"0";s:20:"turnoffsidebarcourse";s:1:"0";s:23:"turnoffsidebardashboard";s:1:"0";s:16:"turnoffsidebarfp";s:1:"0";s:22:"turnoffsidebarincourse";s:1:"0";s:20:"turnoffsidebarreport";s:1:"0";s:22:"turnoffsidebarstandard";s:1:"0";s:15:"unaddableblocks";s:45:"navigation,settings,course_list,section_links";s:7:"version";s:10:"2022061802";}

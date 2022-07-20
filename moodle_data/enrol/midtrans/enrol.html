@@ -1,0 +1,53 @@
+<div align="center">
+
+<p><?php print_string("paymentrequired") ?></p>
+<p><b><?php echo $instancename; ?></b></p>
+<p><b><?php echo get_string("cost").": {$instance->currency} {$localisedcost}"; ?></b></p>
+<p><?php print_string("paymentinstant") ?></p>
+<button type="button" class="btn btn-danger" id="pay-button" data-token="<?php echo $transactiontoken; ?>">Send payment via midtrans</button>
+<form action="/enrol/midtrans/success.php" method="post" id="submit_form">
+    <input type="hidden" name="json" id="json_callback">
+</form>
+</div>
+<!-- Replace client key with API Key from Midtrans -->
+<script type="text/javascript" src="https://app.sandbox.midtrans.com/snap/snap.js" data-client-key="SB-Mid-client-FgA69qYBgK3SN--r"></script>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+<script type="text/javascript">
+    var payButton = document.getElementById('pay-button');
+    // Trigger click button to show SNAP 
+    payButton.addEventListener('click', function () {
+        // Replace with Token data
+        snap.pay(payButton.dataset.token, {
+         onSuccess: function(result){
+          /* You may add your own implementation here */
+          
+          alert('Transaction Success!'); console.log(result);
+          // alert("payment success and update database!"); console.log(result);
+          send_response_to_form(result);
+        },
+        onPending: function(result){
+          /* You may add your own implementation here */
+          alert('Transaction Pending!'); console.log(result);
+          // alert("wating your payment for update database!"); 
+          console.log(result);
+            send_response_to_form(result);
+        },
+        onError: function(result){
+          /* You may add your own implementation here */
+          alert('Transaction Error!'); console.log(result);
+          // alert("payment failed and not update database!"); console.log(result);
+          send_response_to_form(result);
+        },
+        onClose: function(){
+          /* You may add your own implementation here */
+          alert('you closed the popup without finishing the payment');
+          send_response_to_form(result);
+        }   
+        }); 
+    });
+    
+    function send_response_to_form(result){
+        document.getElementById('json_callback').value = JSON.stringify(result);
+        $('#submit_form').submit();
+    }
+</script>

@@ -1,0 +1,26 @@
+CHANGELOG
+Space Moodle Theme
+- - - -
+## [2.1.0] - June 3, 2022 [ WIP ]
+Added:
++ [todo] zarzadzanie menu kursów
+
+Improvements:
++ Theme color generator
++ UI Improvements
+
+Fixes:
++ Calendar UI
+
+
+## [2.0.0] - June 3, 2022
++ Released
+
+Whats new?
++ Completely rebuild the core of the theme
++ New User interface
++ In-build dark mode
++ New Front Page Builder
++ Better Performance 
++ 50% less CSS
++ and much more
